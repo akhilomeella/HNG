@@ -31,11 +31,11 @@ The API should:
 {
   "status": "success",
   "user": {
-    "email": "jessicaakhilome@example.com",
-    "name": "Jessica Akhilome",
-    "stack": "Node.js/Express"
+    "email": "<your email>",
+    "name": "<your name>",
+    "stack": "<your backend stack>"
   },
-  "timestamp": "2025-10-17T12:34:56.789Z",
-  "fact": "Cats have five toes on their front paws, but only four toes on their back paws."
+  "timestamp": "<current UTC time in ISO 8601 format>",
+  "fact": "<random cat fact from Cat Facts API>"
 }
 ```
